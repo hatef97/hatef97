@@ -1,3 +1,4 @@
+![logo](https://github.com/hatef97/hatef97/blob/main/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Hatef Barin</h1>
 <h3 align="center">Python developer</h3>
 
