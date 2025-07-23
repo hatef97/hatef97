@@ -1,6 +1,6 @@
 ![logo](https://github.com/hatef97/hatef97/blob/main/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner%20(1).png)
 # 💫 About Me:
-🔭 I’m currently working on Online Shop website<br>🌱 I’m currently learning Django Signal, Celery, Redis
+🔭 I’m currently working on Job Board website<br>🌱 I’m currently learning Django Signal, Celery, Redis
 
 
 ## 🌐 Socials:
